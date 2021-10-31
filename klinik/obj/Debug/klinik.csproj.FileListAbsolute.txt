@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\klinik\klinik\bin\Debug\klinik.exe.config
+C:\Users\pc\Desktop\klinik\klinik\bin\Debug\klinik.exe
+C:\Users\pc\Desktop\klinik\klinik\bin\Debug\klinik.pdb
+C:\Users\pc\Desktop\klinik\klinik\obj\Debug\klinik.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\klinik\klinik\obj\Debug\klinik.Form1.resources
+C:\Users\pc\Desktop\klinik\klinik\obj\Debug\klinik.Properties.Resources.resources
+C:\Users\pc\Desktop\klinik\klinik\obj\Debug\klinik.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\klinik\klinik\obj\Debug\klinik.exe
+C:\Users\pc\Desktop\klinik\klinik\obj\Debug\klinik.pdb
+C:\Users\pc\Desktop\klinik\klinik\obj\Debug\klinik.Danisma.resources
+C:\Users\pc\Desktop\klinik\klinik\obj\Debug\klinik.Doktor.resources
